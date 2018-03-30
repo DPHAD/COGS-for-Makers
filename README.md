@@ -7,7 +7,7 @@ On might think that with a puzzle made from hardboard (which is cheap) and laser
 Thanks to the spreadsheet, one can see that the lion's share of the costs are in processing the raw materials, and in shipping costs.
 Right away this tells you that optimizing the cost of laser cutting or optimizing shipping cost would be the prime areas to address. One could also simply raise the price...
 
-While <50% profit margin is not very healthy, it shows that at least the product isn't a money-loser as it stands.
+While <50% profit margin is not very healthy, it shows that at least you should be able to make and sell them at shows or online and not LOSE money.
 
 The formulas handle the different cells in specific ways, so be careful when modifying for your own uses unless you change only the values. If you add new cells you'll definitely need to modify the formulas for the grey cells.
 
