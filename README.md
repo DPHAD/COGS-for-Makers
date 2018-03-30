@@ -5,7 +5,7 @@ It is populated with sample data for a laser-cut puzzle. Grey cells are calculat
 On might think that with a puzzle made from hardboard (which is cheap) and laser cutting at a resonable per-minute price, $29 should allow for a healthy profit. But not so! As you can see, as things stand the profit margin is lower than 50% for online sales (but much better for in-person sales.) How did this happen?
 
 Thanks to the spreadsheet, one can see that the lion's share of the costs are in processing the raw materials, and in shipping costs.
-Right away this tells you that optimizing the cost of laser cutting or optimizing shipping cost would be the prime areas to address. One could also simply raise the price...
+Right away this tells you that optimizing the cost of laser cutting or optimizing shipping cost would be the prime areas to address. That free shipping included in the price is expensive! One could also simply raise the price...
 
 While <50% profit margin is not very healthy, it shows that at least you should be able to make and sell them at shows or online and not LOSE money.
 
