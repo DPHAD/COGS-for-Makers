@@ -1,5 +1,5 @@
 # COGS-for-Makers
-A simple Cost-of-Goods Calculator for Makers to help identify what time and costs make up a product.
+A simple Cost-of-Goods / Cost-of-Goods-Sold Calculator for Makers to help identify what time and costs make up a product.
 It is populated with sample data for a laser-cut puzzle. Grey cells are calculated values. 
 
 One might think that with a puzzle made from hardboard (which is cheap) and laser cutting at a resonable per-minute price, $29 should allow for a healthy profit. But not so! As you can see, as things stand the profit margin is lower than 50% for online sales (but much better for in-person sales.) How does this happen?
