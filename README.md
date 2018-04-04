@@ -16,3 +16,5 @@ The formulas handle the different cells in specific ways, so be careful when mod
 The organization and layout is intended to make the process of understanding where costs and time are spent on a product more clear.
 
 Ponoko has a good blog post on How to Create a Product that Sells with some additional insights in this area, if you are interested. https://www.ponoko.com/blog/business-tips/create-a-product-to-sell/
+
+If you want to see this spreadsheet on Google Docs instead, go here: https://docs.google.com/spreadsheets/d/1zH0q1V-A4Oh20up2nfQ9pUJ5eW0RkxC1VgeOmNSZU8o/edit?usp=sharing and use 'FILE->MAKE A COPY' or 'FILE->DOWNLOAD AS...'
