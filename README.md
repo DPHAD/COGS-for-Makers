@@ -6,6 +6,8 @@ The cost of labor is very important and should be calculated even if you conside
 
 One might think that with a puzzle made from hardboard (which is cheap) and laser cutting at a resonable per-minute price, $29 should allow for a healthy profit. But not so! As you can see, as things stand the profit margin is lower than 50% for online sales (but much better for in-person sales.) How does this happen?
 
+![COGS for Makers](https://github.com/DPHAD/COGS-for-Makers/blob/master/Simple%20COGS%20for%20Makers%20Screenshot.png)
+
 Thanks to the spreadsheet, one can see that the lion's share of the costs are in processing the raw materials, and in shipping costs.
 Right away this tells you that optimizing the cost of laser cutting or optimizing shipping cost would be the prime areas to address. Including free shipping in the price is expensive! One could also simply raise the price...
 
