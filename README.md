@@ -4,7 +4,7 @@ It is populated with sample data for a laser-cut puzzle. Grey cells are calculat
 
 The cost of labor is very important and should be calculated even if you consider your own work to be "free". $0.50 per minute is $30/hour.
 
-One might think that with a puzzle made from hardboard (which is cheap) and laser cutting at a resonable per-minute price, $29 should allow for a healthy profit. But not so! As you can see, as things stand the profit margin is lower than 50% for online sales (but much better for in-person sales.) How does this happen?
+One might think that with a puzzle made from hardboard (which is cheap) and laser cutting at a resonable per-minute price, $29 should allow for a healthy profit even if you throw in free shipping. But not so! As you can see, as things stand the profit margin is lower than 50% for online sales (but much better for in-person sales.) How does this happen?
 
 ![COGS for Makers](https://github.com/DPHAD/COGS-for-Makers/blob/master/Simple%20COGS%20for%20Makers%20Screenshot.png)
 
